@@ -1,5 +1,5 @@
 # Python
->  从0开始学习python,完成后端开发
+>  从0开始学习python,完成后端开发
 
 ### 1.TODO
 > * python基础
