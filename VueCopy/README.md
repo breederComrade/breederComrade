@@ -4,4 +4,4 @@
 ### 1.TODO
 > * vue源码结构
 > * vue 五大方法 
-> * vue源码中使用的class
+> * vue源码中使用的class
