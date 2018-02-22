@@ -1,5 +1,5 @@
 # NodeJs
-> 学习NodeJs的后端架构方式
+> 学习NodeJs的后端架构方式
 
 ### 1.TODO
 - [ ] nodeJs
