@@ -2,7 +2,7 @@
 > 学习NodeJs的后端架构方式
 
 ### 1.TODO
-- [ ] nodeJs
+- [ ] nodeJs——APi
 - [ ] fs文件系统
 - [ ] 线程理解
 - [ ] 流的操作

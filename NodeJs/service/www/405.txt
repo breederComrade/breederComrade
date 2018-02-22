@@ -1,0 +1,17 @@
+
+Error: ENOENT: no such file or directory, open './www/favicon.ico'
+Error: ENOENT: no such file or directory, open './www/fuck.html'
+Error: ENOENT: no such file or directory, open './www/fuck.html' err.date  
+Error: ENOENT: no such file or directory, open './www/fuck.html'undefined
+Error: ENOENT: no such file or directory, open './www/fuck.html'undefined
+Error: ENOENT: no such file or directory, open './www/fuck.html'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined
+Error: ENOENT: no such file or directory, open './www/favicon.ico'undefined

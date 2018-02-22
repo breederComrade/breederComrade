@@ -1,0 +1,24 @@
+{
+  "name": "breederComrade",
+  "version": "1.0.0",
+  "description": "学习目录",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "koa2": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breederComrade/breederComrade.git"
+  },
+  "author": "breederComrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breederComrade/breederComrade/issues"
+  },
+  "homepage": "https://github.com/breederComrade/breederComrade#readme"
+}
