@@ -1,7 +1,9 @@
 # breederComrade 
-```
-  学习文件
-```
+> 2018年准备学习的方向 
+
+<!-- ``` 
+ var vue = new Text();
+``` -->
 ### 1.TODO列表
 - [ ] nodeJs
 - [ ] Python
