@@ -1,5 +1,5 @@
 # breederComrade 
-> 2018年准备学习的方向 
+> 2018年准备学习的方向 
 
 <!-- ``` 
  var vue = new Text();
