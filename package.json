@@ -4,11 +4,15 @@
   "description": "学习目录",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.3",
     "express": "^4.16.2",
     "koa2": "^2.0.0-alpha.7"
   },
   "devDependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "express-session": "^1.15.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
