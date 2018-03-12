@@ -3,11 +3,32 @@
 // 数据库连接池的原理和实现方式
 // 通过访问来返回指定的数据
 
+
+
 let express = require("express");
+let  query  = require('./pool');
+
 let app = express();
-let mySql = require("mysql"); //链接mysql
+let fuck = {};
+query("SELECT * FROM user_tables",function(err,vals,fields){
+      fuck = vals;
+      console.log(fuck[0].user_name)
+});
+
+
+
+
+/* let mySql = require("mysql"); //链接mysql
 
 // 创建mysql的连接池
+var pool =  mysql.createPool({
+    host: "127.0.1",
+    user: "root",
+    password: "110",
+    database: "test"
+  });
+
+
 let connection = mySql.createConnection({
   host: "127.0.1",
   user: "root",
@@ -32,6 +53,6 @@ connection.end(function(err) {
   } else {
     console.log("连接关闭");
   }
-});
+}); */
 
 //
