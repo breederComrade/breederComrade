@@ -1,0 +1,36 @@
+{
+    "name": "breederComrade",
+    "version": "1.0.0",
+    "description": "学习目录",
+    "main": "index.js",
+    "dependencies": {
+      "body-parser": "^1.18.2",
+      "cookie-parser": "^1.4.3",
+      "cookie-session": "^2.0.0-beta.3",
+      "ejs": "^2.5.7",
+      "express": "^4.16.2",
+      "koa2": "^2.0.0-alpha.7",
+      "moment": "^2.21.0",
+      "mongolass": "^4.1.3",
+      "mysql": "^2.15.0"
+    },
+    "devDependencies": {
+      "axios": "^0.18.0",
+      "express-session": "^1.15.6",
+      "jade": "^1.11.0"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/breederComrade/breederComrade.git"
+    },
+    "author": "breederComrade",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/breederComrade/breederComrade/issues"
+    },
+    "homepage": "https://github.com/breederComrade/breederComrade#readme"
+  }
+  
