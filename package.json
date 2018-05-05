@@ -18,12 +18,9 @@
     "axios": "^0.18.0",
     "express-session": "^1.15.6",
     "jade": "^1.11.0",
-<<<<<<< HEAD
     "webpack": "^4.6.0",
-    "webpack-cli": "^2.0.15"
-=======
+    "webpack-cli": "^2.0.15",
     "koa": "^2.5.0"
->>>>>>> b5ec675634b3d64b650d463d07f3fa7abecf2b35
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
